@@ -48,6 +48,7 @@ struct Deque {
         return data[end];
     }
 };
+
 int main() {
     int n;
     cin >> n;
